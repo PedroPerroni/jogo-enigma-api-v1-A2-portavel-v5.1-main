@@ -1,1 +1,0 @@
-package br.edu.exemplo.jogoenigma.entity; import br.edu.exemplo.jogoenigma.vo.Email; import org.junit.jupiter.api.Test; import static org.junit.jupiter.api.Assertions.*; class ParticipanteTest { @Test void deveCalcularNivel(){assertEquals("MESTRE",new Participante("Ana",new Email("ana@x.com"),80).getNivel());}}

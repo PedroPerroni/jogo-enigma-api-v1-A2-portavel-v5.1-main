@@ -1,2 +1,0 @@
-# jogo-enigma
-atividade
